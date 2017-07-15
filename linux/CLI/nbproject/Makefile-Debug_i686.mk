@@ -11,14 +11,14 @@
 MKDIR=mkdir
 CP=cp
 GREP=grep
-NM=i686-linux-nm
+NM=nm
 CCADMIN=CCadmin
-RANLIB=i686-linux-ranlib
-CC=i686-linux-gcc
-CCC=i686-linux-g++
-CXX=i686-linux-g++
-FC=i686-linux-gfortran
-AS=i686-linux-as
+RANLIB=ranlib
+CC=gcc
+CCC=g++
+CXX=g++
+FC=gfortran
+AS=as
 
 # Macros
 CND_PLATFORM=GNU-Linux
